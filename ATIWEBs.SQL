@@ -65,9 +65,9 @@ CREATE TABLE `lecturer` (
 --
 
 INSERT INTO `lecturer` (`LecID`, `Name`, `Email`, `Designation`, `CourseID`, `Gender`, `Password`) VALUES
-(2, 'SAFNI mj', 'mjsafnimax@gmail.com', 'Assistant Lecturer', 1, 'Male', '$2y$10$KvVyCgNit29NMThiTRl1teNJOJSYrM.cZlqAJbc/eGl5Pxaev9KEC'),
-(3, 'Tevarooban', 'teva@ati.lk', 'Senior Lecturer II', 1, 'Male', '$2y$10$spvXyvpglbA2Qqod5MrZWOBVDNltZC4bQuNr3k3AGnLX8MaAv1UDW'),
-(4, 'jayapalan', 'jaya@ati.lk', 'Senior Lecturer II', 3, 'Male', '$2y$10$hP6syU2c706A6hWszNIUtu8BevL.uItbGljN96YAb4UWDrykhzggK');
+(2, 'Kishopana', 'rajahkisho99.com', 'Assistant Lecturer', 1, 'female', '$2y$10$KvVyCgNit29NMThiTRl1teNJOJSYrM.cZlqAJbc/eGl5Pxaev9KEC'),
+(3, 'Thevarooban', 'thevaru88@ati.com', 'Senior Lecturer II', 1, 'Male', '$2y$10$spvXyvpglbA2Qqod5MrZWOBVDNltZC4bQuNr3k3AGnLX8MaAv1UDW'),
+(4, 'Nishatha', 'nisha@ati.com', 'Senior Lecturer II', 3, 'female', '$2y$10$hP6syU2c706A6hWszNIUtu8BevL.uItbGljN96YAb4UWDrykhzggK');
 
 --
 -- Indexes for dumped tables
