@@ -1,8 +1,4 @@
 <?php
-// register_process.php
-// Handle form submission and insert data into the database
-
-// Connect to the database (Add your database connection code here)
 
 // Database connection parameters
 $host = "localhost";
