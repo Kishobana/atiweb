@@ -24,7 +24,7 @@ if (!isset($_SESSION['email'])) {
     <h1>Welcome, <?php echo $_SESSION['email']; ?>!</h1>
     <!-- Add other dashboard content here -->
 <p>
-<a href="logout.php" class="logout-button">Logout</a>
+<a href="logout.php">Logout</a>
 
 </body>
 </html>
