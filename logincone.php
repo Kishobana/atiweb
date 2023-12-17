@@ -30,7 +30,7 @@ $result = mysqli_query($conn, $sql);
 // Check if lecturer exists and verify the password
 if ($row = mysqli_fetch_assoc($result)) {
     if (password_verify($password, $row['Password'])) {
-        // Start a session and store lecturer details
+        
         session_start();
         $_SESSION['email'] = $row['Email'];
 
