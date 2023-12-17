@@ -26,8 +26,8 @@
         </select><br><br>
         Gender:
         <input type="radio" name="gender" value="Male" required> Male
-        <input type="radio" name="gender" value="Female" required> Female<br><br>
-        Password: <input type="password" name="password" required><br><br>
+        <input type="radio" name="gender" value="Female" > Female<br><br>
+        Password: <input type="password" name="password" ><br><br>
         <input type="submit" value="Register">
     </form>
 </body>
